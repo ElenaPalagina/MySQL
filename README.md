@@ -19,7 +19,7 @@
 etc..
 
 #При необходимости прикрепить сюда скрины.
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/screen-01.png)
+![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-01.png)
 
 ---
 
