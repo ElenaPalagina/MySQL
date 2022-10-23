@@ -19,6 +19,7 @@
 etc..
 
 #При необходимости прикрепить сюда скрины.
+![Alt text](/home/at0mic/projects/pattern_hw/screen-01.png?raw=true "Optional Title")
 
 ---
 
