@@ -23,7 +23,7 @@
 etc..
 
 #При необходимости прикрепить сюда скрины.
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-01.png?raw=true)
+![Скрин ошибки 1](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-01.png?raw=true)
 
 ---
 
@@ -38,7 +38,7 @@ etc..
 etc..
 
 #При необходимости прикрепить сюда скрины.*
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-02.png?raw=true)
+![Скрин вывода ci файла](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-02.png?raw=true)
 ---
 ### Задание 3.
 
@@ -51,7 +51,7 @@ etc..
 etc..
 
 #При необходимости прикрепить сюда скрины.
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-03.png?raw=true)
+![Скрин ci файла 2](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-03.png?raw=true)
 ---
 ## Дополнительные задания (со звездочкой*)
 
