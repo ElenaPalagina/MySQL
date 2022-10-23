@@ -11,15 +11,15 @@
 ### Задание 1.
 
 #Вставить сюда пункты данного задания
-1.
-2.
+1. test
+2. test
 3.
 4.
 5.
 etc..
 
 #При необходимости прикрепить сюда скрины.
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/screen-01.png?raw=true)
+![Alt text](https://github.com/dmitriy-tomin/pattern_hw/screen-01.png)
 
 ---
 
