@@ -2,7 +2,11 @@
 
 **
 
-**Домашнее задание выполните в текущем файле README.md путем клонирования данного репозитория к себе на ПК, с последующим редактированием и сохранением в своем репозитории на GitGub.**
+**Домашнее задание выполните в текущем файле README.md следующим образом:
+   1. Выполните fork данного репоитория к себе в Github;
+   2. Выполните клонирование данного репозитория к себе на ПК с помощью команды git clone https://github.com/имя-вашего-репозитория/pattern_hw.git ;
+   3. На своем ПК, заполните ответы в данный файл с помощью локального его редактирования;
+   4. При завершении работы над ДЗ необходимо выполнить коммит (git commit -m "comemnt") и отправку его на Github (git push origin).
 
 Перед тем как выслать ссылку, убедитесь, что ее содержимое не является приватным (открыто на просмотр всем, у кого есть ссылка). Если необходимо прикрепить дополнительные ссылки, просто добавьте их в текущий файл.
 
@@ -19,7 +23,7 @@
 etc..
 
 #При необходимости прикрепить сюда скрины.
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-01.png)
+![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-01.png?raw=true)
 
 ---
 
@@ -34,7 +38,7 @@ etc..
 etc..
 
 #При необходимости прикрепить сюда скрины.*
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-02.png)
+![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-02.png?raw=true)
 ---
 ### Задание 3.
 
@@ -47,7 +51,7 @@ etc..
 etc..
 
 #При необходимости прикрепить сюда скрины.
-![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-03.png)
+![Alt text](https://github.com/dmitriy-tomin/pattern_hw/blob/main/screen-03.png?raw=true)
 ---
 ## Дополнительные задания (со звездочкой*)
 
